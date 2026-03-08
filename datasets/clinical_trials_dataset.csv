@@ -1,0 +1,153 @@
+trial_id,trial_name,min_age,max_age,condition,required_marker,description
+NCT944508,Clinical Trial for Type 2 Diabetes Phase 3,26,58,Type 2 Diabetes,None,This is an automated generated trial for evaluating treatments related to Type 2 Diabetes.
+NCT357468,Clinical Trial for Crohn's Disease Phase 1,37,70,Crohn's Disease,KRAS Mutation,This is an automated generated trial for evaluating treatments related to Crohn's Disease.
+NCT889725,Clinical Trial for COPD Phase 4,21,87,COPD,BRCA1,This is an automated generated trial for evaluating treatments related to COPD.
+NCT498443,Clinical Trial for Non-small cell lung cancer Phase 4,19,61,Non-small cell lung cancer,BRCA1,This is an automated generated trial for evaluating treatments related to Non-small cell lung cancer.
+NCT144255,Clinical Trial for Hypertension Phase 2,29,64,Hypertension,HLA-DRB1*15:01,This is an automated generated trial for evaluating treatments related to Hypertension.
+NCT528160,Clinical Trial for Crohn's Disease Phase 4,33,83,Crohn's Disease,KRAS Mutation,This is an automated generated trial for evaluating treatments related to Crohn's Disease.
+NCT218105,Clinical Trial for Type 2 Diabetes Phase 4,35,59,Type 2 Diabetes,BRCA1,This is an automated generated trial for evaluating treatments related to Type 2 Diabetes.
+NCT281824,Clinical Trial for Multiple Sclerosis Phase 2,34,73,Multiple Sclerosis,BRCA1,This is an automated generated trial for evaluating treatments related to Multiple Sclerosis.
+NCT676459,Clinical Trial for Alzheimer's Disease Phase 1,27,83,Alzheimer's Disease,Anti-CCP Positive,This is an automated generated trial for evaluating treatments related to Alzheimer's Disease.
+NCT911431,Clinical Trial for Non-small cell lung cancer Phase 4,24,87,Non-small cell lung cancer,KRAS Mutation,This is an automated generated trial for evaluating treatments related to Non-small cell lung cancer.
+NCT515032,Clinical Trial for Hypertension Phase 4,26,65,Hypertension,KRAS Mutation,This is an automated generated trial for evaluating treatments related to Hypertension.
+NCT118907,Clinical Trial for Hypertension Phase 2,26,73,Hypertension,NOD2 Variant,This is an automated generated trial for evaluating treatments related to Hypertension.
+NCT355785,Clinical Trial for Rheumatoid Arthritis Phase 1,39,59,Rheumatoid Arthritis,BRCA1,This is an automated generated trial for evaluating treatments related to Rheumatoid Arthritis.
+NCT201973,Clinical Trial for Hypertension Phase 1,38,83,Hypertension,APOE-e4,This is an automated generated trial for evaluating treatments related to Hypertension.
+NCT133632,Clinical Trial for Hypertension Phase 1,32,77,Hypertension,APOE-e4,This is an automated generated trial for evaluating treatments related to Hypertension.
+NCT110265,Clinical Trial for Type 2 Diabetes Phase 4,32,81,Type 2 Diabetes,HLA-DRB1*15:01,This is an automated generated trial for evaluating treatments related to Type 2 Diabetes.
+NCT213242,Clinical Trial for Heart Failure Phase 1,34,90,Heart Failure,None,This is an automated generated trial for evaluating treatments related to Heart Failure.
+NCT622117,Clinical Trial for Alzheimer's Disease Phase 3,31,75,Alzheimer's Disease,APOE-e4,This is an automated generated trial for evaluating treatments related to Alzheimer's Disease.
+NCT747308,Clinical Trial for Multiple Sclerosis Phase 2,22,54,Multiple Sclerosis,KRAS Mutation,This is an automated generated trial for evaluating treatments related to Multiple Sclerosis.
+NCT755809,Clinical Trial for COPD Phase 3,37,70,COPD,BRCA1,This is an automated generated trial for evaluating treatments related to COPD.
+NCT609656,Clinical Trial for Alzheimer's Disease Phase 2,20,70,Alzheimer's Disease,NOD2 Variant,This is an automated generated trial for evaluating treatments related to Alzheimer's Disease.
+NCT231487,Clinical Trial for Type 2 Diabetes Phase 4,26,86,Type 2 Diabetes,ALK Postive,This is an automated generated trial for evaluating treatments related to Type 2 Diabetes.
+NCT426576,Clinical Trial for Type 2 Diabetes Phase 4,26,63,Type 2 Diabetes,BRCA1,This is an automated generated trial for evaluating treatments related to Type 2 Diabetes.
+NCT606342,Clinical Trial for Alzheimer's Disease Phase 2,21,65,Alzheimer's Disease,HLA-DRB1*15:01,This is an automated generated trial for evaluating treatments related to Alzheimer's Disease.
+NCT691900,Clinical Trial for COPD Phase 1,30,81,COPD,BRCA1,This is an automated generated trial for evaluating treatments related to COPD.
+NCT486278,Clinical Trial for Alzheimer's Disease Phase 2,25,57,Alzheimer's Disease,KRAS Mutation,This is an automated generated trial for evaluating treatments related to Alzheimer's Disease.
+NCT137514,Clinical Trial for Type 2 Diabetes Phase 3,29,78,Type 2 Diabetes,BRCA1,This is an automated generated trial for evaluating treatments related to Type 2 Diabetes.
+NCT877031,Clinical Trial for Heart Failure Phase 2,22,82,Heart Failure,NOD2 Variant,This is an automated generated trial for evaluating treatments related to Heart Failure.
+NCT312989,Clinical Trial for Heart Failure Phase 1,20,89,Heart Failure,HLA-DRB1*15:01,This is an automated generated trial for evaluating treatments related to Heart Failure.
+NCT583508,Clinical Trial for Multiple Sclerosis Phase 3,21,63,Multiple Sclerosis,NOD2 Variant,This is an automated generated trial for evaluating treatments related to Multiple Sclerosis.
+NCT499355,Clinical Trial for Multiple Sclerosis Phase 3,27,68,Multiple Sclerosis,None,This is an automated generated trial for evaluating treatments related to Multiple Sclerosis.
+NCT230664,Clinical Trial for Non-small cell lung cancer Phase 1,20,70,Non-small cell lung cancer,HLA-DRB1*15:01,This is an automated generated trial for evaluating treatments related to Non-small cell lung cancer.
+NCT824954,Clinical Trial for Alzheimer's Disease Phase 1,31,68,Alzheimer's Disease,Normal,This is an automated generated trial for evaluating treatments related to Alzheimer's Disease.
+NCT621064,Clinical Trial for Type 2 Diabetes Phase 3,32,61,Type 2 Diabetes,None,This is an automated generated trial for evaluating treatments related to Type 2 Diabetes.
+NCT823594,Clinical Trial for Non-small cell lung cancer Phase 3,35,55,Non-small cell lung cancer,APOE-e4,This is an automated generated trial for evaluating treatments related to Non-small cell lung cancer.
+NCT798727,Clinical Trial for COPD Phase 1,36,52,COPD,Anti-CCP Positive,This is an automated generated trial for evaluating treatments related to COPD.
+NCT693114,Clinical Trial for Hypertension Phase 1,21,69,Hypertension,Normal,This is an automated generated trial for evaluating treatments related to Hypertension.
+NCT204760,Clinical Trial for Multiple Sclerosis Phase 2,25,89,Multiple Sclerosis,EGFR Positive,This is an automated generated trial for evaluating treatments related to Multiple Sclerosis.
+NCT873370,Clinical Trial for Alzheimer's Disease Phase 1,36,55,Alzheimer's Disease,Normal,This is an automated generated trial for evaluating treatments related to Alzheimer's Disease.
+NCT276358,Clinical Trial for Crohn's Disease Phase 4,39,50,Crohn's Disease,None,This is an automated generated trial for evaluating treatments related to Crohn's Disease.
+NCT679022,Clinical Trial for Rheumatoid Arthritis Phase 3,35,74,Rheumatoid Arthritis,EGFR Positive,This is an automated generated trial for evaluating treatments related to Rheumatoid Arthritis.
+NCT653483,Clinical Trial for Rheumatoid Arthritis Phase 4,38,83,Rheumatoid Arthritis,ALK Postive,This is an automated generated trial for evaluating treatments related to Rheumatoid Arthritis.
+NCT983106,Clinical Trial for Crohn's Disease Phase 2,32,61,Crohn's Disease,Normal,This is an automated generated trial for evaluating treatments related to Crohn's Disease.
+NCT232632,Clinical Trial for Alzheimer's Disease Phase 2,38,64,Alzheimer's Disease,HLA-DRB1*15:01,This is an automated generated trial for evaluating treatments related to Alzheimer's Disease.
+NCT951493,Clinical Trial for Type 2 Diabetes Phase 3,32,51,Type 2 Diabetes,Normal,This is an automated generated trial for evaluating treatments related to Type 2 Diabetes.
+NCT604005,Clinical Trial for COPD Phase 2,33,66,COPD,NOD2 Variant,This is an automated generated trial for evaluating treatments related to COPD.
+NCT772461,Clinical Trial for Alzheimer's Disease Phase 1,25,79,Alzheimer's Disease,Anti-CCP Positive,This is an automated generated trial for evaluating treatments related to Alzheimer's Disease.
+NCT291617,Clinical Trial for Alzheimer's Disease Phase 2,28,63,Alzheimer's Disease,Normal,This is an automated generated trial for evaluating treatments related to Alzheimer's Disease.
+NCT185024,Clinical Trial for Crohn's Disease Phase 1,24,87,Crohn's Disease,HLA-DRB1*15:01,This is an automated generated trial for evaluating treatments related to Crohn's Disease.
+NCT899109,Clinical Trial for Hypertension Phase 3,26,79,Hypertension,Normal,This is an automated generated trial for evaluating treatments related to Hypertension.
+NCT815450,Clinical Trial for Type 2 Diabetes Phase 1,19,78,Type 2 Diabetes,Normal,This is an automated generated trial for evaluating treatments related to Type 2 Diabetes.
+NCT760989,Clinical Trial for Crohn's Disease Phase 2,25,87,Crohn's Disease,BRCA1,This is an automated generated trial for evaluating treatments related to Crohn's Disease.
+NCT925077,Clinical Trial for Type 2 Diabetes Phase 2,21,87,Type 2 Diabetes,BRCA1,This is an automated generated trial for evaluating treatments related to Type 2 Diabetes.
+NCT375194,Clinical Trial for Heart Failure Phase 3,40,51,Heart Failure,HLA-DRB1*15:01,This is an automated generated trial for evaluating treatments related to Heart Failure.
+NCT682499,Clinical Trial for Crohn's Disease Phase 2,27,50,Crohn's Disease,ALK Postive,This is an automated generated trial for evaluating treatments related to Crohn's Disease.
+NCT123234,Clinical Trial for Heart Failure Phase 2,39,68,Heart Failure,Normal,This is an automated generated trial for evaluating treatments related to Heart Failure.
+NCT503100,Clinical Trial for Alzheimer's Disease Phase 1,33,63,Alzheimer's Disease,ALK Postive,This is an automated generated trial for evaluating treatments related to Alzheimer's Disease.
+NCT509233,Clinical Trial for Non-small cell lung cancer Phase 2,19,58,Non-small cell lung cancer,Anti-CCP Positive,This is an automated generated trial for evaluating treatments related to Non-small cell lung cancer.
+NCT536757,Clinical Trial for Rheumatoid Arthritis Phase 1,34,82,Rheumatoid Arthritis,BRCA1,This is an automated generated trial for evaluating treatments related to Rheumatoid Arthritis.
+NCT163676,Clinical Trial for Heart Failure Phase 4,26,79,Heart Failure,NOD2 Variant,This is an automated generated trial for evaluating treatments related to Heart Failure.
+NCT353977,Clinical Trial for Non-small cell lung cancer Phase 1,38,59,Non-small cell lung cancer,NOD2 Variant,This is an automated generated trial for evaluating treatments related to Non-small cell lung cancer.
+NCT142507,Clinical Trial for Multiple Sclerosis Phase 1,19,51,Multiple Sclerosis,KRAS Mutation,This is an automated generated trial for evaluating treatments related to Multiple Sclerosis.
+NCT762688,Clinical Trial for Type 2 Diabetes Phase 1,31,71,Type 2 Diabetes,HLA-DRB1*15:01,This is an automated generated trial for evaluating treatments related to Type 2 Diabetes.
+NCT800031,Clinical Trial for Non-small cell lung cancer Phase 1,31,85,Non-small cell lung cancer,EGFR Positive,This is an automated generated trial for evaluating treatments related to Non-small cell lung cancer.
+NCT772855,Clinical Trial for Crohn's Disease Phase 1,19,66,Crohn's Disease,Anti-CCP Positive,This is an automated generated trial for evaluating treatments related to Crohn's Disease.
+NCT208387,Clinical Trial for Alzheimer's Disease Phase 2,39,63,Alzheimer's Disease,Normal,This is an automated generated trial for evaluating treatments related to Alzheimer's Disease.
+NCT639890,Clinical Trial for Crohn's Disease Phase 1,19,76,Crohn's Disease,APOE-e4,This is an automated generated trial for evaluating treatments related to Crohn's Disease.
+NCT847898,Clinical Trial for Rheumatoid Arthritis Phase 4,19,55,Rheumatoid Arthritis,ALK Postive,This is an automated generated trial for evaluating treatments related to Rheumatoid Arthritis.
+NCT344166,Clinical Trial for Crohn's Disease Phase 3,30,51,Crohn's Disease,EGFR Positive,This is an automated generated trial for evaluating treatments related to Crohn's Disease.
+NCT569702,Clinical Trial for Rheumatoid Arthritis Phase 3,21,64,Rheumatoid Arthritis,BRCA1,This is an automated generated trial for evaluating treatments related to Rheumatoid Arthritis.
+NCT905973,Clinical Trial for Multiple Sclerosis Phase 1,33,81,Multiple Sclerosis,Normal,This is an automated generated trial for evaluating treatments related to Multiple Sclerosis.
+NCT195329,Clinical Trial for Non-small cell lung cancer Phase 1,19,65,Non-small cell lung cancer,Normal,This is an automated generated trial for evaluating treatments related to Non-small cell lung cancer.
+NCT573019,Clinical Trial for Hypertension Phase 3,34,79,Hypertension,BRCA1,This is an automated generated trial for evaluating treatments related to Hypertension.
+NCT511502,Clinical Trial for Multiple Sclerosis Phase 2,31,77,Multiple Sclerosis,EGFR Positive,This is an automated generated trial for evaluating treatments related to Multiple Sclerosis.
+NCT716332,Clinical Trial for COPD Phase 2,39,88,COPD,KRAS Mutation,This is an automated generated trial for evaluating treatments related to COPD.
+NCT493069,Clinical Trial for Rheumatoid Arthritis Phase 1,26,60,Rheumatoid Arthritis,EGFR Positive,This is an automated generated trial for evaluating treatments related to Rheumatoid Arthritis.
+NCT398733,Clinical Trial for Type 2 Diabetes Phase 3,20,68,Type 2 Diabetes,HLA-DRB1*15:01,This is an automated generated trial for evaluating treatments related to Type 2 Diabetes.
+NCT769184,Clinical Trial for Rheumatoid Arthritis Phase 1,27,55,Rheumatoid Arthritis,HLA-DRB1*15:01,This is an automated generated trial for evaluating treatments related to Rheumatoid Arthritis.
+NCT321575,Clinical Trial for Alzheimer's Disease Phase 3,20,63,Alzheimer's Disease,ALK Postive,This is an automated generated trial for evaluating treatments related to Alzheimer's Disease.
+NCT639125,Clinical Trial for Non-small cell lung cancer Phase 2,34,61,Non-small cell lung cancer,Anti-CCP Positive,This is an automated generated trial for evaluating treatments related to Non-small cell lung cancer.
+NCT603135,Clinical Trial for Alzheimer's Disease Phase 3,36,57,Alzheimer's Disease,KRAS Mutation,This is an automated generated trial for evaluating treatments related to Alzheimer's Disease.
+NCT535109,Clinical Trial for COPD Phase 3,38,58,COPD,HLA-DRB1*15:01,This is an automated generated trial for evaluating treatments related to COPD.
+NCT142123,Clinical Trial for Type 2 Diabetes Phase 3,33,70,Type 2 Diabetes,KRAS Mutation,This is an automated generated trial for evaluating treatments related to Type 2 Diabetes.
+NCT779928,Clinical Trial for COPD Phase 4,38,75,COPD,KRAS Mutation,This is an automated generated trial for evaluating treatments related to COPD.
+NCT231418,Clinical Trial for Alzheimer's Disease Phase 4,38,55,Alzheimer's Disease,KRAS Mutation,This is an automated generated trial for evaluating treatments related to Alzheimer's Disease.
+NCT697429,Clinical Trial for Rheumatoid Arthritis Phase 3,18,57,Rheumatoid Arthritis,ALK Postive,This is an automated generated trial for evaluating treatments related to Rheumatoid Arthritis.
+NCT659817,Clinical Trial for Type 2 Diabetes Phase 1,23,85,Type 2 Diabetes,KRAS Mutation,This is an automated generated trial for evaluating treatments related to Type 2 Diabetes.
+NCT396489,Clinical Trial for Asthma Phase 3,20,64,Asthma,HLA-DRB1*15:01,This is an automated generated trial for evaluating treatments related to Asthma.
+NCT517269,Clinical Trial for COPD Phase 3,25,69,COPD,EGFR Positive,This is an automated generated trial for evaluating treatments related to COPD.
+NCT967639,Clinical Trial for Multiple Sclerosis Phase 4,20,79,Multiple Sclerosis,APOE-e4,This is an automated generated trial for evaluating treatments related to Multiple Sclerosis.
+NCT210259,Clinical Trial for COPD Phase 2,35,56,COPD,NOD2 Variant,This is an automated generated trial for evaluating treatments related to COPD.
+NCT973615,Clinical Trial for Heart Failure Phase 1,38,59,Heart Failure,EGFR Positive,This is an automated generated trial for evaluating treatments related to Heart Failure.
+NCT712381,Clinical Trial for Asthma Phase 3,35,51,Asthma,None,This is an automated generated trial for evaluating treatments related to Asthma.
+NCT282969,Clinical Trial for Type 2 Diabetes Phase 1,26,83,Type 2 Diabetes,BRCA1,This is an automated generated trial for evaluating treatments related to Type 2 Diabetes.
+NCT180790,Clinical Trial for Crohn's Disease Phase 2,20,59,Crohn's Disease,Normal,This is an automated generated trial for evaluating treatments related to Crohn's Disease.
+NCT771565,Clinical Trial for Alzheimer's Disease Phase 4,30,71,Alzheimer's Disease,Normal,This is an automated generated trial for evaluating treatments related to Alzheimer's Disease.
+NCT896170,Clinical Trial for COPD Phase 4,18,60,COPD,ALK Postive,This is an automated generated trial for evaluating treatments related to COPD.
+NCT979653,Clinical Trial for Crohn's Disease Phase 2,34,72,Crohn's Disease,NOD2 Variant,This is an automated generated trial for evaluating treatments related to Crohn's Disease.
+NCT822711,Clinical Trial for Crohn's Disease Phase 3,22,61,Crohn's Disease,Normal,This is an automated generated trial for evaluating treatments related to Crohn's Disease.
+NCT496808,Clinical Trial for Rheumatoid Arthritis Phase 2,20,70,Rheumatoid Arthritis,HLA-DRB1*15:01,This is an automated generated trial for evaluating treatments related to Rheumatoid Arthritis.
+NCT447833,Clinical Trial for Heart Failure Phase 2,29,57,Heart Failure,HLA-DRB1*15:01,This is an automated generated trial for evaluating treatments related to Heart Failure.
+NCT740221,Clinical Trial for Multiple Sclerosis Phase 1,28,84,Multiple Sclerosis,Normal,This is an automated generated trial for evaluating treatments related to Multiple Sclerosis.
+NCT923160,Clinical Trial for Heart Failure Phase 3,18,60,Heart Failure,NOD2 Variant,This is an automated generated trial for evaluating treatments related to Heart Failure.
+NCT315257,Clinical Trial for Heart Failure Phase 1,27,80,Heart Failure,BRCA1,This is an automated generated trial for evaluating treatments related to Heart Failure.
+NCT700160,Clinical Trial for Type 2 Diabetes Phase 1,31,54,Type 2 Diabetes,None,This is an automated generated trial for evaluating treatments related to Type 2 Diabetes.
+NCT197077,Clinical Trial for Non-small cell lung cancer Phase 4,40,84,Non-small cell lung cancer,EGFR Positive,This is an automated generated trial for evaluating treatments related to Non-small cell lung cancer.
+NCT418231,Clinical Trial for Rheumatoid Arthritis Phase 1,23,83,Rheumatoid Arthritis,Anti-CCP Positive,This is an automated generated trial for evaluating treatments related to Rheumatoid Arthritis.
+NCT312740,Clinical Trial for Alzheimer's Disease Phase 2,21,84,Alzheimer's Disease,HLA-DRB1*15:01,This is an automated generated trial for evaluating treatments related to Alzheimer's Disease.
+NCT762550,Clinical Trial for Hypertension Phase 1,40,83,Hypertension,KRAS Mutation,This is an automated generated trial for evaluating treatments related to Hypertension.
+NCT176869,Clinical Trial for Alzheimer's Disease Phase 3,18,56,Alzheimer's Disease,ALK Postive,This is an automated generated trial for evaluating treatments related to Alzheimer's Disease.
+NCT515493,Clinical Trial for Crohn's Disease Phase 3,40,60,Crohn's Disease,KRAS Mutation,This is an automated generated trial for evaluating treatments related to Crohn's Disease.
+NCT139540,Clinical Trial for Type 2 Diabetes Phase 2,25,67,Type 2 Diabetes,APOE-e4,This is an automated generated trial for evaluating treatments related to Type 2 Diabetes.
+NCT371440,Clinical Trial for Heart Failure Phase 4,26,60,Heart Failure,EGFR Positive,This is an automated generated trial for evaluating treatments related to Heart Failure.
+NCT816700,Clinical Trial for Heart Failure Phase 4,18,77,Heart Failure,ALK Postive,This is an automated generated trial for evaluating treatments related to Heart Failure.
+NCT109315,Clinical Trial for COPD Phase 4,25,78,COPD,APOE-e4,This is an automated generated trial for evaluating treatments related to COPD.
+NCT528235,Clinical Trial for Type 2 Diabetes Phase 4,34,83,Type 2 Diabetes,None,This is an automated generated trial for evaluating treatments related to Type 2 Diabetes.
+NCT383318,Clinical Trial for Heart Failure Phase 2,25,58,Heart Failure,ALK Postive,This is an automated generated trial for evaluating treatments related to Heart Failure.
+NCT951779,Clinical Trial for Type 2 Diabetes Phase 3,18,83,Type 2 Diabetes,NOD2 Variant,This is an automated generated trial for evaluating treatments related to Type 2 Diabetes.
+NCT803957,Clinical Trial for Asthma Phase 1,18,76,Asthma,BRCA1,This is an automated generated trial for evaluating treatments related to Asthma.
+NCT885033,Clinical Trial for Crohn's Disease Phase 1,35,57,Crohn's Disease,BRCA1,This is an automated generated trial for evaluating treatments related to Crohn's Disease.
+NCT487300,Clinical Trial for Rheumatoid Arthritis Phase 2,24,59,Rheumatoid Arthritis,NOD2 Variant,This is an automated generated trial for evaluating treatments related to Rheumatoid Arthritis.
+NCT797621,Clinical Trial for COPD Phase 4,34,82,COPD,Anti-CCP Positive,This is an automated generated trial for evaluating treatments related to COPD.
+NCT483938,Clinical Trial for Asthma Phase 1,32,85,Asthma,None,This is an automated generated trial for evaluating treatments related to Asthma.
+NCT282131,Clinical Trial for COPD Phase 4,26,57,COPD,BRCA1,This is an automated generated trial for evaluating treatments related to COPD.
+NCT494092,Clinical Trial for Non-small cell lung cancer Phase 4,26,81,Non-small cell lung cancer,EGFR Positive,This is an automated generated trial for evaluating treatments related to Non-small cell lung cancer.
+NCT399221,Clinical Trial for COPD Phase 2,20,85,COPD,KRAS Mutation,This is an automated generated trial for evaluating treatments related to COPD.
+NCT366626,Clinical Trial for Heart Failure Phase 4,24,85,Heart Failure,EGFR Positive,This is an automated generated trial for evaluating treatments related to Heart Failure.
+NCT740083,Clinical Trial for Non-small cell lung cancer Phase 4,33,61,Non-small cell lung cancer,BRCA1,This is an automated generated trial for evaluating treatments related to Non-small cell lung cancer.
+NCT580978,Clinical Trial for Hypertension Phase 4,38,58,Hypertension,Normal,This is an automated generated trial for evaluating treatments related to Hypertension.
+NCT396917,Clinical Trial for Asthma Phase 3,20,75,Asthma,EGFR Positive,This is an automated generated trial for evaluating treatments related to Asthma.
+NCT781701,Clinical Trial for Rheumatoid Arthritis Phase 3,20,56,Rheumatoid Arthritis,Anti-CCP Positive,This is an automated generated trial for evaluating treatments related to Rheumatoid Arthritis.
+NCT910912,Clinical Trial for Heart Failure Phase 3,23,68,Heart Failure,NOD2 Variant,This is an automated generated trial for evaluating treatments related to Heart Failure.
+NCT181425,Clinical Trial for Asthma Phase 3,31,85,Asthma,EGFR Positive,This is an automated generated trial for evaluating treatments related to Asthma.
+NCT633152,Clinical Trial for Heart Failure Phase 3,26,54,Heart Failure,Anti-CCP Positive,This is an automated generated trial for evaluating treatments related to Heart Failure.
+NCT577205,Clinical Trial for Asthma Phase 3,32,71,Asthma,None,This is an automated generated trial for evaluating treatments related to Asthma.
+NCT856978,Clinical Trial for Type 2 Diabetes Phase 2,36,82,Type 2 Diabetes,ALK Postive,This is an automated generated trial for evaluating treatments related to Type 2 Diabetes.
+NCT258820,Clinical Trial for Hypertension Phase 2,25,90,Hypertension,NOD2 Variant,This is an automated generated trial for evaluating treatments related to Hypertension.
+NCT197877,Clinical Trial for Type 2 Diabetes Phase 3,21,80,Type 2 Diabetes,BRCA1,This is an automated generated trial for evaluating treatments related to Type 2 Diabetes.
+NCT242882,Clinical Trial for Alzheimer's Disease Phase 4,18,50,Alzheimer's Disease,None,This is an automated generated trial for evaluating treatments related to Alzheimer's Disease.
+NCT882413,Clinical Trial for Type 2 Diabetes Phase 3,22,72,Type 2 Diabetes,KRAS Mutation,This is an automated generated trial for evaluating treatments related to Type 2 Diabetes.
+NCT880158,Clinical Trial for Crohn's Disease Phase 1,32,85,Crohn's Disease,KRAS Mutation,This is an automated generated trial for evaluating treatments related to Crohn's Disease.
+NCT725353,Clinical Trial for Asthma Phase 2,25,81,Asthma,HLA-DRB1*15:01,This is an automated generated trial for evaluating treatments related to Asthma.
+NCT242011,Clinical Trial for Non-small cell lung cancer Phase 1,31,50,Non-small cell lung cancer,KRAS Mutation,This is an automated generated trial for evaluating treatments related to Non-small cell lung cancer.
+NCT326947,Clinical Trial for Non-small cell lung cancer Phase 3,28,56,Non-small cell lung cancer,APOE-e4,This is an automated generated trial for evaluating treatments related to Non-small cell lung cancer.
+NCT360202,Clinical Trial for Multiple Sclerosis Phase 1,40,75,Multiple Sclerosis,BRCA1,This is an automated generated trial for evaluating treatments related to Multiple Sclerosis.
+NCT516437,Clinical Trial for Crohn's Disease Phase 4,40,67,Crohn's Disease,ALK Postive,This is an automated generated trial for evaluating treatments related to Crohn's Disease.
+NCT984495,Clinical Trial for Hypertension Phase 4,36,50,Hypertension,NOD2 Variant,This is an automated generated trial for evaluating treatments related to Hypertension.
+NCT916594,Clinical Trial for Heart Failure Phase 4,25,85,Heart Failure,Normal,This is an automated generated trial for evaluating treatments related to Heart Failure.
+NCT513877,Clinical Trial for Rheumatoid Arthritis Phase 4,38,84,Rheumatoid Arthritis,APOE-e4,This is an automated generated trial for evaluating treatments related to Rheumatoid Arthritis.
+NCT885116,Clinical Trial for Rheumatoid Arthritis Phase 3,40,78,Rheumatoid Arthritis,ALK Postive,This is an automated generated trial for evaluating treatments related to Rheumatoid Arthritis.
+CT-7d8fb,Evaluation of a New Oral Medication for Type 2 Diabetes Management,40,65,Type 2 Diabetes Mellitus,none,The purpose of this clinical trial is to evaluate the safety and effectiveness of a new oral medication designed to improve blood glucose control in patients diagnosed with Type 2 Diabetes Mellitus. | Lab requirements: HbA1c level between 7.5% and 10%
+CT-dd90a,Evaluation of a New Oral Medication for Type 2 Diabetes Management,40,65,Type 2 Diabetes Mellitus,none,"fwdfgashjkmlz,;kdb ccdwewfgerhndkmwql vjweikd,lqws.c,efdvfwhnskjm x vberhgvkfhwjad.kx,x;fretdklqa  | Lab requirements: HbA1c level between 7.5% and 10%"

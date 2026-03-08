@@ -1,0 +1,157 @@
+patient_id,name,age,gender,disease,lab_results,genetic_info
+P-99804,Patricia Smith,53,Other,COPD,"{""WBC"": 8.2, ""Hb"": 15.9}",HLA-DRB1*15:01
+P-25331,Patricia Anderson,81,Female,Multiple Sclerosis,"{""WBC"": 5.6, ""Hb"": 11.3}",APOE-e4
+P-58992,Elizabeth Lopez,38,Male,Alzheimer's Disease,"{""WBC"": 7.8, ""Hb"": 11.2}",Anti-CCP Positive
+P-56593,Linda Martin,48,Male,Asthma,"{""WBC"": 8.2, ""Hb"": 11.1, ""IgE"": 216.4, ""Eosinophils"": 376.6}",NOD2 Variant
+P-76209,Richard Garcia,47,Other,Heart Failure,"{""WBC"": 5.7, ""Hb"": 14.7, ""BNP"": 538.1, ""Creatinine"": 2.1}",NOD2 Variant
+P-38122,Mary Lopez,56,Male,Hypertension,"{""WBC"": 5.4, ""Hb"": 12.9}",Anti-CCP Positive
+P-99294,Robert Martinez,86,Female,Non-small cell lung cancer,"{""WBC"": 10.4, ""Hb"": 13.3}",KRAS Mutation
+P-82962,Elizabeth Jones,31,Female,Rheumatoid Arthritis,"{""WBC"": 6.3, ""Hb"": 11.6}",ALK Postive
+P-33822,Jennifer Hernandez,57,Female,Crohn's Disease,"{""WBC"": 8.0, ""Hb"": 13.8}",ALK Postive
+P-24234,Thomas Davis,22,Male,Non-small cell lung cancer,"{""WBC"": 8.4, ""Hb"": 15.7}",None
+P-93365,Michael Taylor,80,Female,Rheumatoid Arthritis,"{""WBC"": 4.5, ""Hb"": 12.0}",APOE-e4
+P-58734,Sarah Martinez,68,Female,Hypertension,"{""WBC"": 4.6, ""Hb"": 15.6}",Anti-CCP Positive
+P-82726,Barbara Lopez,24,Female,Heart Failure,"{""WBC"": 5.9, ""Hb"": 13.4, ""BNP"": 500.0, ""Creatinine"": 1.9}",BRCA1
+P-90548,Joseph Wilson,18,Other,Non-small cell lung cancer,"{""WBC"": 4.9, ""Hb"": 13.8}",None
+P-24133,Patricia Miller,18,Male,Rheumatoid Arthritis,"{""WBC"": 7.3, ""Hb"": 11.5}",Normal
+P-22621,Karen Lopez,44,Other,Type 2 Diabetes,"{""WBC"": 5.9, ""Hb"": 11.9, ""HbA1c"": 6.6, ""FastingGlucose"": 172.5}",NOD2 Variant
+P-85645,John Williams,59,Male,Non-small cell lung cancer,"{""WBC"": 8.7, ""Hb"": 12.5}",ALK Postive
+P-71186,Elizabeth Taylor,50,Male,Heart Failure,"{""WBC"": 9.9, ""Hb"": 11.4, ""BNP"": 613.0, ""Creatinine"": 2.4}",KRAS Mutation
+P-99733,Jennifer Gonzalez,90,Other,Crohn's Disease,"{""WBC"": 6.5, ""Hb"": 14.7}",EGFR Positive
+P-88062,Michael Hernandez,35,Female,Crohn's Disease,"{""WBC"": 4.0, ""Hb"": 15.9}",Anti-CCP Positive
+P-66814,Susan Miller,37,Other,Type 2 Diabetes,"{""WBC"": 8.5, ""Hb"": 12.6, ""HbA1c"": 6.6, ""FastingGlucose"": 189.2}",None
+P-61383,Linda Hernandez,63,Male,Multiple Sclerosis,"{""WBC"": 4.6, ""Hb"": 15.5}",ALK Postive
+P-68353,Elizabeth Jackson,55,Female,Crohn's Disease,"{""WBC"": 5.4, ""Hb"": 15.9}",NOD2 Variant
+P-19203,Karen Wilson,18,Female,Multiple Sclerosis,"{""WBC"": 6.0, ""Hb"": 13.6}",Anti-CCP Positive
+P-84783,Barbara Davis,38,Other,Rheumatoid Arthritis,"{""WBC"": 9.2, ""Hb"": 13.6}",BRCA1
+P-99685,Linda Brown,51,Other,Rheumatoid Arthritis,"{""WBC"": 6.4, ""Hb"": 12.1}",None
+P-79382,William Martinez,79,Male,Heart Failure,"{""WBC"": 7.1, ""Hb"": 12.8, ""BNP"": 156.0, ""Creatinine"": 1.8}",ALK Postive
+P-18775,James Wilson,51,Other,Rheumatoid Arthritis,"{""WBC"": 9.3, ""Hb"": 15.4}",NOD2 Variant
+P-53421,Charles Garcia,64,Male,Type 2 Diabetes,"{""WBC"": 7.7, ""Hb"": 11.1, ""HbA1c"": 7.3, ""FastingGlucose"": 102.9}",HLA-DRB1*15:01
+P-84677,Karen Gonzalez,80,Female,Multiple Sclerosis,"{""WBC"": 8.1, ""Hb"": 14.5}",APOE-e4
+P-54784,James Wilson,22,Female,Asthma,"{""WBC"": 8.3, ""Hb"": 13.6, ""IgE"": 86.3, ""Eosinophils"": 310.4}",None
+P-91436,John Miller,46,Female,Asthma,"{""WBC"": 3.7, ""Hb"": 11.6, ""IgE"": 212.8, ""Eosinophils"": 291.2}",Anti-CCP Positive
+P-45284,Patricia Hernandez,90,Other,Heart Failure,"{""WBC"": 9.4, ""Hb"": 11.7, ""BNP"": 323.9, ""Creatinine"": 2.3}",None
+P-43705,Joseph Thomas,18,Other,Heart Failure,"{""WBC"": 10.2, ""Hb"": 15.4, ""BNP"": 238.9, ""Creatinine"": 1.8}",KRAS Mutation
+P-27188,Sarah Taylor,44,Other,Heart Failure,"{""WBC"": 3.9, ""Hb"": 12.5, ""BNP"": 517.8, ""Creatinine"": 2.1}",Normal
+P-10461,Michael Gonzalez,29,Male,Hypertension,"{""WBC"": 9.1, ""Hb"": 15.1}",NOD2 Variant
+P-31666,Susan Davis,32,Male,Asthma,"{""WBC"": 9.9, ""Hb"": 14.2, ""IgE"": 106.8, ""Eosinophils"": 188.4}",KRAS Mutation
+P-95939,Mary Johnson,40,Male,Non-small cell lung cancer,"{""WBC"": 8.6, ""Hb"": 15.8}",HLA-DRB1*15:01
+P-13526,Jennifer Hernandez,24,Female,Non-small cell lung cancer,"{""WBC"": 7.6, ""Hb"": 15.9}",Anti-CCP Positive
+P-87468,Charles Taylor,52,Male,Type 2 Diabetes,"{""WBC"": 8.0, ""Hb"": 15.8, ""HbA1c"": 8.9, ""FastingGlucose"": 186.3}",None
+P-37919,David Jones,51,Female,Alzheimer's Disease,"{""WBC"": 3.6, ""Hb"": 15.8}",APOE-e4
+P-29861,Barbara Hernandez,37,Female,Rheumatoid Arthritis,"{""WBC"": 4.1, ""Hb"": 13.6}",BRCA1
+P-76329,Susan Martinez,33,Other,Heart Failure,"{""WBC"": 6.5, ""Hb"": 12.1, ""BNP"": 449.9, ""Creatinine"": 2.3}",NOD2 Variant
+P-31782,Robert Wilson,20,Female,Asthma,"{""WBC"": 8.8, ""Hb"": 14.3, ""IgE"": 121.7, ""Eosinophils"": 392.9}",Anti-CCP Positive
+P-98114,Robert Williams,25,Female,Multiple Sclerosis,"{""WBC"": 10.0, ""Hb"": 13.0}",Normal
+P-29520,Michael Williams,67,Female,Heart Failure,"{""WBC"": 9.6, ""Hb"": 11.4, ""BNP"": 176.3, ""Creatinine"": 2.1}",NOD2 Variant
+P-94271,Barbara Davis,21,Female,Multiple Sclerosis,"{""WBC"": 3.6, ""Hb"": 14.2}",NOD2 Variant
+P-33599,Michael Rodriguez,50,Other,Non-small cell lung cancer,"{""WBC"": 8.4, ""Hb"": 14.2}",HLA-DRB1*15:01
+P-64506,Elizabeth Wilson,23,Male,Rheumatoid Arthritis,"{""WBC"": 8.7, ""Hb"": 11.4}",Anti-CCP Positive
+P-26106,Patricia Martin,28,Other,Type 2 Diabetes,"{""WBC"": 4.4, ""Hb"": 12.5, ""HbA1c"": 8.1, ""FastingGlucose"": 180.5}",APOE-e4
+P-16715,Jennifer Rodriguez,73,Other,Alzheimer's Disease,"{""WBC"": 4.5, ""Hb"": 15.4}",APOE-e4
+P-46404,David Thomas,41,Female,Heart Failure,"{""WBC"": 7.8, ""Hb"": 14.3, ""BNP"": 717.8, ""Creatinine"": 1.2}",ALK Postive
+P-40131,Jessica Smith,73,Male,Heart Failure,"{""WBC"": 6.2, ""Hb"": 11.8, ""BNP"": 225.1, ""Creatinine"": 0.5}",ALK Postive
+P-22538,Sarah Williams,77,Other,Alzheimer's Disease,"{""WBC"": 7.8, ""Hb"": 12.1}",APOE-e4
+P-84935,Charles Taylor,46,Male,COPD,"{""WBC"": 8.7, ""Hb"": 13.2}",Anti-CCP Positive
+P-24288,David Davis,79,Other,Alzheimer's Disease,"{""WBC"": 4.6, ""Hb"": 11.8}",BRCA1
+P-26133,Karen Jones,78,Female,Non-small cell lung cancer,"{""WBC"": 9.2, ""Hb"": 15.5}",NOD2 Variant
+P-73092,Joseph Taylor,72,Female,COPD,"{""WBC"": 5.9, ""Hb"": 14.9}",APOE-e4
+P-14548,Mary Martin,86,Other,Non-small cell lung cancer,"{""WBC"": 10.0, ""Hb"": 15.7}",Normal
+P-87656,William Wilson,44,Other,Asthma,"{""WBC"": 4.2, ""Hb"": 15.4, ""IgE"": 213.8, ""Eosinophils"": 579.5}",ALK Postive
+P-99959,Richard Rodriguez,83,Male,Non-small cell lung cancer,"{""WBC"": 6.6, ""Hb"": 15.4}",Anti-CCP Positive
+P-60225,Joseph Anderson,26,Male,Crohn's Disease,"{""WBC"": 6.9, ""Hb"": 15.2}",Anti-CCP Positive
+P-13683,John Williams,71,Female,Crohn's Disease,"{""WBC"": 7.2, ""Hb"": 13.0}",BRCA1
+P-75803,Charles Martinez,31,Other,COPD,"{""WBC"": 7.6, ""Hb"": 15.6}",Normal
+P-68019,Sarah Thomas,59,Other,Crohn's Disease,"{""WBC"": 8.3, ""Hb"": 15.2}",Anti-CCP Positive
+P-29530,Karen Lopez,29,Male,Heart Failure,"{""WBC"": 10.5, ""Hb"": 12.3, ""BNP"": 268.2, ""Creatinine"": 2.0}",BRCA1
+P-42782,William Johnson,24,Female,Asthma,"{""WBC"": 6.4, ""Hb"": 11.8, ""IgE"": 159.2, ""Eosinophils"": 100.4}",ALK Postive
+P-85439,Barbara Davis,84,Female,Non-small cell lung cancer,"{""WBC"": 8.0, ""Hb"": 13.3}",NOD2 Variant
+P-62922,William Martin,39,Female,Hypertension,"{""WBC"": 4.1, ""Hb"": 11.1}",HLA-DRB1*15:01
+P-35756,Charles Jones,39,Female,COPD,"{""WBC"": 7.1, ""Hb"": 15.0}",APOE-e4
+P-36948,Barbara Garcia,44,Female,Heart Failure,"{""WBC"": 7.3, ""Hb"": 12.8, ""BNP"": 144.9, ""Creatinine"": 0.6}",None
+P-67068,Elizabeth Johnson,30,Other,Hypertension,"{""WBC"": 5.5, ""Hb"": 14.9}",ALK Postive
+P-66260,Susan Anderson,29,Male,Multiple Sclerosis,"{""WBC"": 6.8, ""Hb"": 13.1}",KRAS Mutation
+P-45400,Robert Jackson,77,Other,Multiple Sclerosis,"{""WBC"": 8.5, ""Hb"": 12.7}",EGFR Positive
+P-54704,Robert Wilson,33,Female,Hypertension,"{""WBC"": 7.1, ""Hb"": 13.0}",ALK Postive
+P-92683,Linda Williams,66,Female,Crohn's Disease,"{""WBC"": 6.6, ""Hb"": 11.9}",EGFR Positive
+P-15689,William Wilson,87,Other,Alzheimer's Disease,"{""WBC"": 5.2, ""Hb"": 12.7}",KRAS Mutation
+P-45685,David Smith,47,Other,Non-small cell lung cancer,"{""WBC"": 5.2, ""Hb"": 12.1}",ALK Postive
+P-59321,Karen Wilson,61,Other,Asthma,"{""WBC"": 9.8, ""Hb"": 15.1, ""IgE"": 133.6, ""Eosinophils"": 174.0}",Anti-CCP Positive
+P-12729,John Anderson,53,Other,Crohn's Disease,"{""WBC"": 7.7, ""Hb"": 14.1}",NOD2 Variant
+P-35129,Jennifer Miller,57,Other,Multiple Sclerosis,"{""WBC"": 9.9, ""Hb"": 11.4}",NOD2 Variant
+P-55677,Mary Miller,88,Male,Alzheimer's Disease,"{""WBC"": 10.0, ""Hb"": 11.2}",ALK Postive
+P-15407,John Martinez,86,Male,Type 2 Diabetes,"{""WBC"": 4.0, ""Hb"": 12.4, ""HbA1c"": 5.7, ""FastingGlucose"": 179.0}",Normal
+P-98795,William Taylor,42,Female,Asthma,"{""WBC"": 6.7, ""Hb"": 14.4, ""IgE"": 159.8, ""Eosinophils"": 217.6}",ALK Postive
+P-59650,Joseph Taylor,60,Male,Crohn's Disease,"{""WBC"": 9.8, ""Hb"": 14.4}",Anti-CCP Positive
+P-94617,Michael Taylor,21,Other,Non-small cell lung cancer,"{""WBC"": 7.4, ""Hb"": 15.6}",ALK Postive
+P-47849,Susan Martinez,79,Other,Alzheimer's Disease,"{""WBC"": 8.0, ""Hb"": 13.4}",ALK Postive
+P-32894,Susan Garcia,35,Other,Rheumatoid Arthritis,"{""WBC"": 8.4, ""Hb"": 13.8}",EGFR Positive
+P-82324,Thomas Lopez,47,Female,Non-small cell lung cancer,"{""WBC"": 9.4, ""Hb"": 13.7}",Anti-CCP Positive
+P-55981,Jessica Anderson,49,Female,COPD,"{""WBC"": 8.7, ""Hb"": 13.0}",BRCA1
+P-79756,Patricia Hernandez,79,Male,Hypertension,"{""WBC"": 6.1, ""Hb"": 11.2}",BRCA1
+P-84431,David Thomas,61,Other,Type 2 Diabetes,"{""WBC"": 7.4, ""Hb"": 15.4, ""HbA1c"": 7.0, ""FastingGlucose"": 151.2}",BRCA1
+P-19166,Michael Smith,51,Other,Multiple Sclerosis,"{""WBC"": 4.8, ""Hb"": 14.0}",HLA-DRB1*15:01
+P-72790,Elizabeth Garcia,41,Male,COPD,"{""WBC"": 7.2, ""Hb"": 14.2}",Anti-CCP Positive
+P-74252,Karen Jackson,64,Female,Hypertension,"{""WBC"": 9.3, ""Hb"": 15.4}",APOE-e4
+P-83317,Michael Taylor,40,Other,Rheumatoid Arthritis,"{""WBC"": 8.6, ""Hb"": 15.3}",BRCA1
+P-25332,Jessica Rodriguez,25,Other,Crohn's Disease,"{""WBC"": 6.0, ""Hb"": 13.8}",NOD2 Variant
+P-50117,Jessica Thomas,31,Female,Alzheimer's Disease,"{""WBC"": 7.2, ""Hb"": 11.0}",Normal
+P-77166,Mary Jones,87,Other,Non-small cell lung cancer,"{""WBC"": 8.2, ""Hb"": 11.9}",ALK Postive
+P-18164,Linda Moore,40,Male,Multiple Sclerosis,"{""WBC"": 4.6, ""Hb"": 14.7}",BRCA1
+P-54000,James Williams,26,Female,Alzheimer's Disease,"{""WBC"": 9.8, ""Hb"": 13.1}",NOD2 Variant
+P-46121,Mary Moore,79,Other,Type 2 Diabetes,"{""WBC"": 8.9, ""Hb"": 14.6, ""HbA1c"": 8.5, ""FastingGlucose"": 193.8}",Normal
+P-87063,Michael Martinez,90,Female,Rheumatoid Arthritis,"{""WBC"": 10.2, ""Hb"": 13.7}",HLA-DRB1*15:01
+P-79985,Robert Brown,43,Male,Hypertension,"{""WBC"": 3.6, ""Hb"": 11.3}",ALK Postive
+P-33180,John Williams,31,Male,Asthma,"{""WBC"": 5.9, ""Hb"": 13.4, ""IgE"": 398.3, ""Eosinophils"": 467.7}",APOE-e4
+P-55360,Joseph Taylor,42,Male,Crohn's Disease,"{""WBC"": 5.0, ""Hb"": 13.3}",APOE-e4
+P-99745,David Taylor,88,Male,Alzheimer's Disease,"{""WBC"": 8.5, ""Hb"": 15.8}",NOD2 Variant
+P-79429,Michael Martin,62,Male,Alzheimer's Disease,"{""WBC"": 9.4, ""Hb"": 15.7}",EGFR Positive
+P-54435,Charles Taylor,76,Male,Type 2 Diabetes,"{""WBC"": 9.3, ""Hb"": 15.0, ""HbA1c"": 6.8, ""FastingGlucose"": 158.7}",NOD2 Variant
+P-55262,Barbara Thomas,49,Other,Multiple Sclerosis,"{""WBC"": 7.0, ""Hb"": 15.6}",HLA-DRB1*15:01
+P-80836,Jessica Anderson,48,Other,Type 2 Diabetes,"{""WBC"": 10.4, ""Hb"": 14.2, ""HbA1c"": 5.9, ""FastingGlucose"": 129.6}",None
+P-57066,Susan Davis,44,Female,Non-small cell lung cancer,"{""WBC"": 5.5, ""Hb"": 15.0}",Normal
+P-88493,Linda Lopez,37,Other,Asthma,"{""WBC"": 3.7, ""Hb"": 14.1, ""IgE"": 341.3, ""Eosinophils"": 104.8}",APOE-e4
+P-73179,Susan Smith,47,Other,Heart Failure,"{""WBC"": 4.8, ""Hb"": 12.0, ""BNP"": 422.2, ""Creatinine"": 0.9}",APOE-e4
+P-53125,Michael Jones,64,Male,Asthma,"{""WBC"": 3.7, ""Hb"": 12.9, ""IgE"": 56.2, ""Eosinophils"": 148.8}",BRCA1
+P-74687,Joseph Moore,67,Other,Rheumatoid Arthritis,"{""WBC"": 10.5, ""Hb"": 13.9}",None
+P-45926,John Gonzalez,19,Male,COPD,"{""WBC"": 8.2, ""Hb"": 11.8}",None
+P-99914,Joseph Martin,53,Other,Crohn's Disease,"{""WBC"": 9.4, ""Hb"": 15.4}",None
+P-47189,James Hernandez,81,Other,Heart Failure,"{""WBC"": 4.2, ""Hb"": 11.9, ""BNP"": 330.3, ""Creatinine"": 1.2}",KRAS Mutation
+P-26557,Mary Johnson,33,Male,COPD,"{""WBC"": 3.9, ""Hb"": 12.2}",NOD2 Variant
+P-42607,Jessica Johnson,37,Other,COPD,"{""WBC"": 3.6, ""Hb"": 14.3}",EGFR Positive
+P-15337,David Rodriguez,47,Other,Asthma,"{""WBC"": 3.5, ""Hb"": 14.4, ""IgE"": 275.9, ""Eosinophils"": 175.8}",KRAS Mutation
+P-39475,Richard Davis,36,Male,Alzheimer's Disease,"{""WBC"": 8.0, ""Hb"": 14.3}",Normal
+P-71629,James Moore,55,Female,Rheumatoid Arthritis,"{""WBC"": 7.1, ""Hb"": 14.2}",None
+P-86431,Joseph Moore,36,Male,Rheumatoid Arthritis,"{""WBC"": 6.0, ""Hb"": 14.2}",BRCA1
+P-70961,Charles Williams,41,Male,Asthma,"{""WBC"": 10.5, ""Hb"": 12.1, ""IgE"": 226.9, ""Eosinophils"": 390.8}",Normal
+P-16179,David Miller,79,Other,Heart Failure,"{""WBC"": 9.9, ""Hb"": 15.7, ""BNP"": 612.7, ""Creatinine"": 1.4}",EGFR Positive
+P-31994,William Hernandez,65,Female,Heart Failure,"{""WBC"": 8.5, ""Hb"": 14.4, ""BNP"": 127.1, ""Creatinine"": 1.7}",HLA-DRB1*15:01
+P-90614,Karen Davis,72,Male,Rheumatoid Arthritis,"{""WBC"": 10.4, ""Hb"": 12.2}",Anti-CCP Positive
+P-98644,Thomas Thomas,51,Female,Alzheimer's Disease,"{""WBC"": 4.2, ""Hb"": 13.8}",EGFR Positive
+P-71020,James Lopez,24,Male,Asthma,"{""WBC"": 4.7, ""Hb"": 14.5, ""IgE"": 276.2, ""Eosinophils"": 249.0}",KRAS Mutation
+P-13961,Thomas Garcia,87,Other,Type 2 Diabetes,"{""WBC"": 7.4, ""Hb"": 15.6, ""HbA1c"": 7.3, ""FastingGlucose"": 178.0}",HLA-DRB1*15:01
+P-96830,Sarah Martinez,28,Female,Type 2 Diabetes,"{""WBC"": 8.1, ""Hb"": 11.5, ""HbA1c"": 8.5, ""FastingGlucose"": 150.1}",KRAS Mutation
+P-99011,Mary Anderson,62,Other,Crohn's Disease,"{""WBC"": 8.8, ""Hb"": 14.3}",EGFR Positive
+P-32281,Linda Johnson,68,Male,Crohn's Disease,"{""WBC"": 4.3, ""Hb"": 14.6}",KRAS Mutation
+P-82740,Robert Jackson,70,Other,Alzheimer's Disease,"{""WBC"": 9.5, ""Hb"": 14.7}",Normal
+P-77765,Elizabeth Davis,27,Other,Multiple Sclerosis,"{""WBC"": 8.7, ""Hb"": 13.8}",Normal
+P-56983,William Hernandez,60,Female,COPD,"{""WBC"": 6.2, ""Hb"": 15.9}",BRCA1
+P-93658,William Johnson,78,Other,COPD,"{""WBC"": 4.9, ""Hb"": 11.0}",None
+P-92191,Barbara Anderson,67,Other,Non-small cell lung cancer,"{""WBC"": 9.1, ""Hb"": 14.7}",BRCA1
+P-12065,Charles Martinez,58,Male,Asthma,"{""WBC"": 9.1, ""Hb"": 12.9, ""IgE"": 96.0, ""Eosinophils"": 300.8}",None
+P-91905,Patricia Johnson,84,Male,Type 2 Diabetes,"{""WBC"": 6.4, ""Hb"": 12.6, ""HbA1c"": 6.2, ""FastingGlucose"": 173.6}",None
+P-51633,Susan Rodriguez,49,Male,Rheumatoid Arthritis,"{""WBC"": 5.7, ""Hb"": 14.9}",KRAS Mutation
+P-70364,Thomas Miller,43,Male,Alzheimer's Disease,"{""WBC"": 8.0, ""Hb"": 11.6}",Normal
+P-61456,Jennifer Gonzalez,81,Male,Rheumatoid Arthritis,"{""WBC"": 4.3, ""Hb"": 14.0}",NOD2 Variant
+P-24257,Jessica Johnson,81,Female,Multiple Sclerosis,"{""WBC"": 6.6, ""Hb"": 11.3}",NOD2 Variant
+P-56265,Susan Davis,51,Female,Crohn's Disease,"{""WBC"": 4.4, ""Hb"": 11.2}",None
+P-31006,Jennifer Martinez,29,Female,Type 2 Diabetes,"{""WBC"": 8.2, ""Hb"": 15.7, ""HbA1c"": 9.4, ""FastingGlucose"": 186.2}",BRCA1
+P-94407,Mary Gonzalez,30,Female,Crohn's Disease,"{""WBC"": 5.7, ""Hb"": 14.5}",NOD2 Variant
+P-83720,Robert Martin,50,Female,Type 2 Diabetes,"{""WBC"": 7.6, ""Hb"": 13.5, ""HbA1c"": 6.5, ""FastingGlucose"": 106.1}",APOE-e4
+P-ca37a,John Doe,45,Male,Type 2 Diabetes Mellitus,"{""Summary"": ""Fasting Glucose: 182 mg/dL""}",None provided
+P-ca37a,John Doe,45,Male,Type 2 Diabetes Mellitus,"{""Summary"": ""Fasting Glucose: 182 mg/dL""}",None provided
+P-ca37a,John Doe,45,Male,Type 2 Diabetes Mellitus,"{""Summary"": ""Fasting Glucose: 182 mg/dL"", ""Report"": ""PatientMedicalReport\nPatientName:JohnSmith\nAge:45\nGender:Male\nPatientID:P1001\nPrimaryDiagnosis:\nType2DiabetesMellitus\nSymptoms:\nFrequenturination\nIncreasedthirst\nFatigue\nLabResults:\nFastingGlucose:182mg/dL\nHbA1c:8.1%\nTotalCholesterol:210mg/dL\nTriglycerides:185mg/dL\nMedicalHistory:\nFamilyhistoryofdiabetes.\nCurrentMedication:\nMetformin500mgtwicedaily.\nDoctorNotes:\nPatientshowsuncontrolledglucoselevels.\nRecommendedlifestylemodificationsandevaluationfordiabetesclinicaltrial\nenrollment.\nPhysician:\nDr.MichaelCarter\nDate:2026-03-01\n""}",None provided
+P-ca37a,John Doe,45,Male,Type 2 Diabetes Mellitus,"{""Summary"": ""Fasting Glucose: 182 mg/dL"", ""Report"": ""PatientMedicalReport\nPatientName:JohnSmith\nAge:45\nGender:Male\nPatientID:P1001\nPrimaryDiagnosis:\nType2DiabetesMellitus\nSymptoms:\nFrequenturination\nIncreasedthirst\nFatigue\nLabResults:\nFastingGlucose:182mg/dL\nHbA1c:8.1%\nTotalCholesterol:210mg/dL\nTriglycerides:185mg/dL\nMedicalHistory:\nFamilyhistoryofdiabetes.\nCurrentMedication:\nMetformin500mgtwicedaily.\nDoctorNotes:\nPatientshowsuncontrolledglucoselevels.\nRecommendedlifestylemodificationsandevaluationfordiabetesclinicaltrial\nenrollment.\nPhysician:\nDr.MichaelCarter\nDate:2026-03-01\n""}",None provided
+P-cd71a,Jerin J,20,Male,Type 2 Diabetes Melites,"{""Summary"": ""Fasting Glucose: 182 mg/dL HbA1c: 8.1 % Total Cholesterol: 210 mg/dL Triglycerides: 185 mg/dL"", ""Report"": ""PatientMedicalReport\nPatientName:JohnSmith\nAge:45\nGender:Male\nPatientID:P1001\nPrimaryDiagnosis:\nType2DiabetesMellitus\nSymptoms:\nFrequenturination\nIncreasedthirst\nFatigue\nLabResults:\nFastingGlucose:182mg/dL\nHbA1c:8.1%\nTotalCholesterol:210mg/dL\nTriglycerides:185mg/dL\nMedicalHistory:\nFamilyhistoryofdiabetes.\nCurrentMedication:\nMetformin500mgtwicedaily.\nDoctorNotes:\nPatientshowsuncontrolledglucoselevels.\nRecommendedlifestylemodificationsandevaluationfordiabetesclinicaltrial\nenrollment.\nPhysician:\nDr.MichaelCarter\nDate:2026-03-01\n""}","Recommended lifestyle modifications and evaluation for diabetes clinical trial
+enrollment."
