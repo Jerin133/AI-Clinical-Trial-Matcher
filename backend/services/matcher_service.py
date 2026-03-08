@@ -4,8 +4,17 @@ from sklearn.metrics.pairwise import cosine_similarity
 import threading
 import hashlib
 
-model = SentenceTransformer('all-MiniLM-L6-v2')
+model = None
 _model_lock = threading.Lock()
+
+def get_model():
+    global model
+    if model is None:
+        with _model_lock:
+            if model is None:
+                print("Loading SentenceTransformer model...")
+                model = SentenceTransformer('all-MiniLM-L6-v2')
+    return model
 
 from database import feedback_collection, embeddings_collection
 
@@ -33,7 +42,8 @@ def get_embeddings(texts):
     # If we found texts that haven't been encoded yet, run the heavy AI model
     if texts_to_encode:
         with _model_lock:
-            new_embeddings = model.encode(texts_to_encode)
+            current_model = get_model()
+            new_embeddings = current_model.encode(texts_to_encode).astype(np.float32)
             
         # Save the new embeddings to the permanent MongoDB cache
         docs_to_insert = []
