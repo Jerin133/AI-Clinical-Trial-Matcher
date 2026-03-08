@@ -41,8 +41,8 @@ def get_embeddings(texts):
             
     # If we found texts that haven't been encoded yet, run the heavy AI model
     if texts_to_encode:
+        current_model = get_model()
         with _model_lock:
-            current_model = get_model()
             new_embeddings = current_model.encode(texts_to_encode).astype(np.float32)
             
         # Save the new embeddings to the permanent MongoDB cache
