@@ -1,0 +1,8 @@
+Backend
+    cd backend
+    venv\Scripts\activate               ----        deactivate
+    uvicorn main:app --reload             
+
+Frontend
+    cd frontend
+    npm run dev
